@@ -112,7 +112,7 @@ body {
 /* Hero Section */
 .hero {
   position: relative;
-  height: 40vh; /* Full viewport height */
+  height: 20vh; /* Full viewport height */
   width: 100%;
   overflow: hidden;
 }
