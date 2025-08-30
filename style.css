@@ -146,7 +146,7 @@ body {
 .hero-content {
   position: relative;   /* above slides */
   z-index: 2;
-  color: #fff;
+  color: #222222;
   max-width: 90%;
   padding: 0 1rem;
 }
