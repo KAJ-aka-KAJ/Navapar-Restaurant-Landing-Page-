@@ -211,7 +211,7 @@ body {
 }
 
 .about-text h2 {
-  font-size: 2rem;
+  font-size: 1rem;
   color: var(--primary-color);
   margin-bottom: 1.5rem;
 }
@@ -317,14 +317,14 @@ body {
 }
 
 .menu-item p {
-  font-size: 0.95rem;
+  font-size: 0.1rem;
   color: var(--dark-color);
   margin-bottom: 0.75rem;
 }
 
 .menu-item .price {
   display: inline-block;
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--accent-color);
 }
@@ -359,13 +359,13 @@ body {
 }
 
 .about-text h2 {
-  font-size: 2rem;
+  font-size: 1rem;
   color: var(--primary-color);
   margin-bottom: 1rem;
 }
 
 .about-text p {
-  font-size: 2rem;
+  font-size: 1rem;
   color: var(--dark-color);
   margin-bottom: 1rem;
   line-height: 1.6;
