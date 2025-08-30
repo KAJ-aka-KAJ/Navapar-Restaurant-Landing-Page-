@@ -365,7 +365,7 @@ body {
 }
 
 .about-text p {
-  font-size: 1rem;
+  font-size: 2rem;
   color: var(--dark-color);
   margin-bottom: 1rem;
   line-height: 1.6;
