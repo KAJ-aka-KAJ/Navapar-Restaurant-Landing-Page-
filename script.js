@@ -13,9 +13,9 @@ const hero = document.querySelector(".hero");
 
 // Replace with your food-related images
 const heroImages = [
-  "https://picsum.photos/1920/1080?food1",
-  "https://picsum.photos/1920/1080?food2",
-  "https://picsum.photos/1920/1080?food3"
+  "https://www.santaanasweets.com/wp-content/uploads/scallops-7404270_1280-768x512.jpg.webp",
+  "https://www.allrecipes.com/thmb/wrNZyC416h41hqFoVno3xdR-zCI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/49404-Juiciest-Hamburgers-Ever-mfs-050-0ac3bef367714d89a1c219d9cfdb9186.jpg",
+  "background-image: url('https://www.allrecipes.com/thmb/ZkkFR4ljzYNYj7UulkhFVUe0wE4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LorrainesClubSandwich_AR30Min_038_Photo-by-Allrecipes-1-df96417adce0448c80ba3a7b7631cac7.jpg"
 ];
 
 let currentImageIndex = 0;
