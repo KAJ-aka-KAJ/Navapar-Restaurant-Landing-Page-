@@ -111,7 +111,7 @@ body {
 /* Hero Section */
 .hero {
   position: relative;
-  height: 30vh;
+  height: 20vh;
   width: 100%;
   overflow: hidden;
   display: flex;                /* relative centering */
