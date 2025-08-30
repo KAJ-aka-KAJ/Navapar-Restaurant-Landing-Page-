@@ -112,9 +112,14 @@ body {
 /* Hero Section */
 .hero {
   position: relative;
-  height: 20vh; /* Full viewport height */
+  height: 20vh; 
   width: 100%;
   overflow: hidden;
+  display: flex;  
+  flex-direction: column;    
+  justify-content: center; 
+  align-items: center; 
+  text-align: center;  
 }
 
 .slides {
